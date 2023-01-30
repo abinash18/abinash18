@@ -2,6 +2,7 @@
 <h3 align="center">I am a electrical engineering student at the University of Alberta Canada in the coop program.</h3>
 
 - 📫 How to reach me **abinash1@ualberta.ca**
+- LinkedIn **https://www.linkedin.com/in/abinash-singh-196621218/**
 
 <p align="left">
 </p>
